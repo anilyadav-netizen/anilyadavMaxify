@@ -4,16 +4,16 @@ const Navbar = () => {
     return (
         <>
             <div className='flex justify-between items-center'>
-                <div>
-                    <titel className="text-red-600">Hello Mr Anil</titel>
-                </div>
-                <div className='grid grid-cols-6 gap-2'>
-                    <h3>hello1</h3>
-                    <h3>hello2</h3>
-                    <h3>hello3</h3>
-                    <h3>vikas</h3>
-                    <h3>shanti</h3>
-                    <h3>Anil</h3>
+                <div className='flex justify-between items-center gap-3'>
+                    <div>
+                        <h1>6Bro</h1>
+                    </div>
+                    <div className='grid grid-cols-6 gap-2'>
+                        <h1>Home</h1>
+                        <h1>Contact</h1>
+                        <h1>login</h1>
+                        <h1>Pages</h1>
+                    </div>
                 </div>
             </div>
         </>
