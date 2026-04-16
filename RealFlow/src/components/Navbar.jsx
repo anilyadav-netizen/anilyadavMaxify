@@ -12,6 +12,7 @@ const Navbar = () => {
                     <h3>hello2</h3>
                     <h3>login</h3>
                     <h4>contact</h4>
+                    <h3>AddToCart</h3>
                 </div>
             </div>
         </>
